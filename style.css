@@ -1,0 +1,47 @@
+body{
+    background-color: blue;
+}
+
+.hipervinculos, a, nav{
+    background-color: aquamarine;
+    text-decoration: none;
+    font-size: 20px;
+    color:black;
+    text-align: center;
+}
+.conpadre{
+    background-color: grey;
+    border-color: black;
+}
+.conthijo{
+    background-color:aliceblue;
+}
+
+article, h2{
+    left: 41px;
+    background-color: yellowgreen;
+}
+.cont1{
+    background-color: yellowgreen;
+    border-color: black;
+    font-size: x-large;
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-right: 1100px;
+    margin-top: 30px;
+    margin-bottom: 200px;
+    position: relative;
+}
+.Cont2{
+    background-color: aquamarine;
+    border-color: black;
+    width: 300px;
+    height: 300px;
+    transform: translate(-100px, 350px);
+    margin-right: 400px;
+}
+footer{
+    background-color:antiquewhite;
+    border-color: black;
+}
